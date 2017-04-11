@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_6e938c5f3b3cacc3cd42e7d046a1687e4e2ec29d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bing\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d17d05d3f4b00e51ce260a94a1a9990330a15f1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bing\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_89ff99899c2aecac4adc60fc26dea7e7f5528103\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bing\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_97aae5d16cd84c1f183c0f560d3a1c67eccc6c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_9a3a9a6c61fa5c57f79dd2d63cd5d0cc05a6ac0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="63fd90642276cb29437e6b878accded8c90e6d95">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1bce67c32812bd87d18b4811a5f644ef8db1e7b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_4960e8be0286f4add7fcb044003e3d23255a7be6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_1d3f144597294c8971f47a2fcc5d7759ee29a85e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bing\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_4a05b43fe8a2852aa8381458cc9ac2d12e2a9f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bing\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_043448c6687f24027225b2649d82d2a56cb693aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_ac155fa27f442bd14ef3df983fe128bff2812daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_c5c8ea87b3ba477cd706d58e25bf6e887af52be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_5d83a99781516fb91525f2b6dff213e92ed80549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_e41333da875e2d9ec5a75ae0d5ed4b81419ed8fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b93e57a21992b91fe6d0b502c18bbd2908d7324b">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_45e4a71c7bf667fe1e355bef1647ff11bc5219c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_69ac26a049a8588684a0f919de8907abf5aab3dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Github\DribbbleApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="F:\Github\DribbbleApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_50f217ca7bb13a3f52d4a5537dcde8e795baa6b5\classes.dex" />
+    </item>
+
+</items>
